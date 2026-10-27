@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+.env*
+!.env.example
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+PortableGit/
+Git-2.56.0.4-64-bit (1).exe
